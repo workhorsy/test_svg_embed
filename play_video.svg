@@ -1,9 +1,22 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="560" height="349">
-  <iframe xmlns="http://www.w3.org/1999/xhtml"
-    width="560" height="349"
-    src="http://www.youtube.com/embed/c5WWJmv87_o"
-    frameborder="0"></iframe>
-</foreignObject>
+<svg viewBox="0 0 1280 800" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .small { font: italic 13px sans-serif; }
+    .heavy { font: bold 30px sans-serif; }
 
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .Rrrrr { font: italic 40px serif; fill: red; }
+  </style>
+
+  <text x="20" y="35" class="small">My</text>
+  <text x="40" y="35" class="heavy">cat</text>
+  <text x="55" y="55" class="small">is</text>
+  <text x="65" y="55" class="Rrrrr">Grumpy!</text>
+
+  <foreignObject width="560" height="349">
+   <iframe xmlns="http://www.w3.org/1999/xhtml"
+     width="560" height="349"
+     src="http://www.youtube.com/embed/c5WWJmv87_o"
+     frameborder="0"></iframe>
+ </foreignObject>
 </svg>
