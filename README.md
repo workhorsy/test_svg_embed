@@ -5,7 +5,7 @@
 <div align="center">
 	<br>
 	<a href="https://youtu.be/PFCWlwdfK_k">
-		<img src="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" width="800" height="400" alt="Play Video">
+		<img src="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" width="800" height="400" alt="Loading scenes asynchronously in Godot">
 	</a>
 	<br>
 </div>
