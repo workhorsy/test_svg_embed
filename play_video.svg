@@ -2,8 +2,9 @@
   <style>
   </style>
 
-  <image href="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" />
-  <text x="20" y="35" class="small">Some text</text>
+ <text x="20" y="35" class="small">Some text</text>
+  <image href="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" height="200" width="200"/>
+  <text x="20" y="35" class="small">More text</text>
 
   
   
