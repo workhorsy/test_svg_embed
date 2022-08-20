@@ -1,6 +1,7 @@
 # Test Embed SVG
 
 <div>
+	before
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
    <rect width="100%" height="100%" fill="red" />
 
@@ -8,6 +9,7 @@
   
 
 </svg>
+	after
 </div>
 
 
