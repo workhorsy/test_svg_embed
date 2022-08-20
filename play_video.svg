@@ -13,12 +13,16 @@
   <text x="55" y="55" class="small">is</text>
   <text x="65" y="55" class="Rrrrr">Grumpy!</text>
 
-  <img src="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" />
+  
   
   <foreignObject width="560" height="349">
    <iframe xmlns="http://www.w3.org/1999/xhtml"
      width="560" height="349"
      src="https://github.com/"
-     frameborder="0"></iframe>
+     frameborder="0">
+    
+    <img src="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" />
+     
+    </iframe>
  </foreignObject>
 </svg>
