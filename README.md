@@ -1,19 +1,6 @@
 # Test Embed SVG
 
-<style>
 
-.video:after {
-    content: "";
-    position: absolute;
-    top: 0;
-    width: 150px;
-    height: 120px;
-    z-index: 100;
-    background: transparent url(play.png) no-repeat center;
-    pointer-events: none;
-}
-	
-</style>
 
 <div align="center" style="border: 1px solid red;">
 	<a href="https://youtu.be/PFCWlwdfK_k">
