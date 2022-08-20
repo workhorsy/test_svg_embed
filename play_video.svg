@@ -3,19 +3,6 @@
   </style>
 
  <text x="0" y="0" class="small">Some text</text>
-  <image href="http://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" height="200" width="200"/>
-  <text x="100" y="100" class="small">More text</text>
 
-  
-  
-  <foreignObject width="560" height="349">
-   <iframe xmlns="http://www.w3.org/1999/xhtml"
-     width="560" height="349"
-     src="https://github.com/"
-     frameborder="0">
-    
-    
-     
-    </iframe>
- </foreignObject>
+  <text x="100" y="100" class="small">More text</text>
 </svg>
