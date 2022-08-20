@@ -1,7 +1,6 @@
 # Test Embed SVG
 
 
-[![Loading scenes asynchronously in Godot](https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg)](https://youtu.be/PFCWlwdfK_k, "Loading scenes asynchronously in Godot")
 
 <div align="center">
 	<br>
