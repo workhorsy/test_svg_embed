@@ -1,10 +1,11 @@
-<svg width="700" height="700">
-  <style>
-  </style>
+<svg version="1.1"
+     width="700" height="700"
+     xmlns="http://www.w3.org/2000/svg">
+
 
   <image x="100" y="100" width="128" height="146" href="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" />
- <text x="100" y="10" class="small">Some text</text>
-  <text x="100" y="100" class="small">More text</text>
+ <text x="100" y="10">Some text</text>
+  <text x="100" y="100">More text</text>
 
 
 </svg>
