@@ -2,7 +2,7 @@
 
 
 
-<div align="center" style="border: 1px solid red;">
+<div align="center" style="border:1px solid black;">
 	<a href="https://youtu.be/PFCWlwdfK_k">
 		<img src="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" alt="Loading scenes asynchronously in Godot">
 	</a>
