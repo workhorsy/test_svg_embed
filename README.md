@@ -6,20 +6,7 @@
 
   <circle cx="150" cy="100" r="80" fill="green" />
   
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
 
-      <style>
-        /* your CSS */
-      </style>
-
-       <div style="border: 10px solid blue;">Test</div>
-       
-      <!-- your HTML -->
-      <img width="128" height="146" src="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" />
-
-    </div>
-  </foreignObject>
 </svg>
 </div>
 
