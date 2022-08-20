@@ -2,6 +2,7 @@
   <style>
   </style>
 
+  <image href="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" />
   <text x="20" y="35" class="small">Some text</text>
 
   
@@ -12,7 +13,7 @@
      src="https://github.com/"
      frameborder="0">
     
-    <image href="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" />
+    
      
     </iframe>
  </foreignObject>
