@@ -12,8 +12,11 @@
 
        <div style="border: 10px solid blue;">Test</div>
        
-      <!-- your HTML -->
+     aaaaaaaaaaaa
       <img width="128" height="146" src="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg" />
+     bbbbbbbbbbbbb
+       <image x="200" y="200" width="100px" height="100px"
+         href="https://img.youtube.com/vi/PFCWlwdfK_k/0.jpg">
 
     </div>
   </foreignObject>
