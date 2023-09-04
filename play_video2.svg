@@ -20,6 +20,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <p class="red">This is red color</p>
       <p class="green">This is green color</p>
+      <a href="https://github.com/workhorsy/py-cpuinfo/issues/183">issue</a>
     </div>
   </foreignObject>
 </svg>
