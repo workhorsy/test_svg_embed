@@ -1,26 +1,25 @@
 <?xml version="1.0" standalone="no"?>
 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    div {
+    body {
       background: pink;
+      border: 2px solid red;
       font: 12px serif;
       padding: 10px;
+      margin: 0px;
     }
-    
-    .red {
+    .red_text {
       color: red;
     }
-    
-    .green {
-      color: green
-    }
   </style>
-
-  <foreignObject x="20" y="20" width="160" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <p class="red">This is red color</p>
-      <p class="green">This is green color</p>
-      <a href="https://github.com/workhorsy/py-cpuinfo/issues/183">issue</a>
-    </div>
+  
+  <foreignObject x="20" y="20" width="160" height="300">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <body>
+      <p class="red_text">
+       Text goes here ...
+      </p>
+    </body>
+    </html>
   </foreignObject>
 </svg>
